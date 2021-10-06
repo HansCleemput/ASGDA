@@ -1,0 +1,8 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = ASG Damage Appraisal
+BUNDLE_IDENTIFIER = com.asgdamageappraisal.mobile
+
+RUNTIME_URL = https:\/\/expertiseplatform-accp.mendixcloud.com/
+
+PRODUCT_NAME = ASGDamageApprai
