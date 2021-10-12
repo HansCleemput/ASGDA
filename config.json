@@ -92,7 +92,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.22",
-    "buildNumber": 25,
+    "appVersion": "0.0.26",
+    "buildNumber": 26,
     "runtimeUrl": "https://expertiseplatform-accp.mendixcloud.com/"
 }
